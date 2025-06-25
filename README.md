@@ -1,7 +1,7 @@
 <h1 align="center">📌 SimpleKanban</h1>
 <br>
 
-**SimpleKanban** is a responsive and interactive **task management board** built using **HTML**, **CSS**, and ** JavaScript**.  
+**SimpleKanban** is a responsive and interactive **task management board** built using **HTML**, **CSS**, and **JavaScript**.  
 The project simulates a classic Kanban workflow with **drag-and-drop** functionality to move tasks between columns.
 
 This project was initially inspired by the tutorial:  
